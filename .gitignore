@@ -1,0 +1,4 @@
+*.txt
+/logs/
+
+03_Project-automl-pycaret.code-workspace
